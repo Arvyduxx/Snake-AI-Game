@@ -1,3 +1,16 @@
+Snake AI Game 1.1 Update:
+Minor UI Update:
+Button font changed from "Ariel" to "Courier New"
+Window background color changed from white to black
+Score label color changed from white to red.
+Thanks for playing.😊
+
+
+
+
+
+
+
 # Snake-AI-Game
 An ideal Snake Game created by an AI.
 
