@@ -11,3 +11,4 @@ Rules of using software:
 3. Ignorance of the rules does not exempt from legal responsibility.
 
 Thanks for reading.
+For colaboration and bug reporting: aarvyduxx@gmail.com
