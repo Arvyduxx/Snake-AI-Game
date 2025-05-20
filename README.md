@@ -3,7 +3,7 @@ Minor UI Update:
 Button font changed from "Ariel" to "Courier New",
 Window background color changed from white to black,
 Score label color changed from white to red.
-*on Mac there is some weird white rectangle across buttons but it doesnt afect gameplay.
+*on Mac there is some weird white rectangle across buttons but it doesn't affect gameplay.
 Thanks for playing.😊
 
 
